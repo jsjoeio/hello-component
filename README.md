@@ -15,12 +15,12 @@ npm install --save @jsjoeio/hello-component
 ```jsx
 import React, { Component } from 'react'
 
-import MyComponent from '@jsjoeio/hello-component'
+import HelloComponent from '@jsjoeio/hello-component'
 
 class Example extends Component {
   render () {
     return (
-      <MyComponent />
+      <HelloComponent />
     )
   }
 }
