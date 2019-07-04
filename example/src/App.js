@@ -1,13 +1,13 @@
 import React from 'react'
 
-import HelloComponent, { useHello } from '@jsjoeio/hello-component'
+import useHello from '@jsjoeio/hello-component'
 
 const App = () => {
 
   useHello('John')
   return (
     <div>
-      <HelloComponent />
+      <h1>hiii</h1>
     </div>
   )
 }

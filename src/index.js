@@ -1,7 +1,7 @@
 import React, { useEffect } from 'react'
 
 
-export function useHello (person, dependencies = []) {
+export default function useHello (person, dependencies = []) {
   useEffect(() => {
     console.log(`Hello, ${person}`)
   },dependencies)
@@ -9,4 +9,4 @@ export function useHello (person, dependencies = []) {
 
 const HelloComponent = () => <div> Hello World! </div>
 
-export default HelloComponent
+// export default HelloComponent
