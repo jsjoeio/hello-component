@@ -1,0 +1,9 @@
+{
+  "version": "v1",
+  "packages": {
+    "@jsjoeio/hello-component": {
+      "signature": "16c438f1a4dcba186e933377841fd7e4",
+      "file": true
+    }
+  }
+}

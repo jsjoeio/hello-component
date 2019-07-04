@@ -5,7 +5,7 @@
   "license": "MIT",
   "private": true,
   "dependencies": {
-    "@jsjoeio/hello-component": "link:..",
+    "@jsjoeio/hello-component": "file:.yalc/@jsjoeio/hello-component",
     "prop-types": "^15.6.2",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
