@@ -1,6 +1,6 @@
 {
   "name": "@jsjoeio/hello-component",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A component that says &#x27;Hello world!&#x27;",
   "author": "jsjoeio",
   "license": "MIT",
